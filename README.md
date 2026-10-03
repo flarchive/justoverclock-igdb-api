@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of justoverclock/igdb-api.** Not for installation: use [Packagist](https://packagist.org/packages/justoverclock/igdb-api) or the [upstream repository](https://github.com/justoverclockl/igdb-api).
 
-**0** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.6) · License: `0BSD` · Flarum: `^1.8.5`
+**7** versions archived · Latest: [`0.1.6`](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.6) · License: `0BSD` · Flarum: `^1.8.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-10-03 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-10-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.1) |
+| `0.1.2` | 2021-10-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.2) |
+| `0.1.3` | 2021-10-04 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.3) |
+| `0.1.4` | 2023-07-18 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.4) |
+| `0.1.5` | 2023-07-18 | `^1.0.0` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.5) |
+| `0.1.6` | 2024-01-24 | `^1.8.5` | [Browse](https://github.com/flarchive/justoverclock-igdb-api/tree/archive/v0.1.6) |
 
 Catalog entry: [packages/justoverclock-igdb-api.json](https://github.com/flarchive/archive-index/blob/main/packages/justoverclock-igdb-api.json)
 
